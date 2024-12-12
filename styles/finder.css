@@ -1,0 +1,15 @@
+.buscador{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 50px;
+    margin: 0 auto;
+    width: 30%;
+    padding: 40px;
+}
+
+.buscador img{
+width: 500px;
+padding: 30px;
+}

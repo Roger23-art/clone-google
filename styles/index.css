@@ -1,0 +1,26 @@
+@import url("header.css");
+@import url("./finder.css");
+@import url("./botones.css");
+@import url("./footer.css");
+
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.grid-container{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+.grid-container div{
+    background-color: whitesmoke;
+    padding: 20px;
+    text-align: left;
+}
+

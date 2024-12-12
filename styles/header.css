@@ -1,0 +1,11 @@
+header{
+    padding: 10px;
+    }
+
+.header_lista{
+    display: flex;
+    gap: 25px;
+    justify-content: flex-end;
+    list-style: none;
+    padding: 20px;
+}

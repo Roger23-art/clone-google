@@ -1,0 +1,30 @@
+footer{
+    padding: 80px;
+    grid-template-columns: auto auto;
+}
+
+.footer_lista{
+    display: flex;
+    gap: 20px;
+    width: 80%;
+    list-style: none;
+    justify-content: left;
+    background-color: ghostwhite;
+    line-height: 60px;
+    float: left;
+    color: black;
+    
+    }
+
+#footer_lista2{
+    display: flex;
+    gap: 20px;
+    width: 60px;
+    list-style: none;
+    justify-content: end;
+    background-color: ghostwhite;
+    line-height: 60px;
+    margin: 0;
+    float: right;
+       
+}
